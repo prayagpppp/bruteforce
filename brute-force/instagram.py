@@ -9,6 +9,7 @@ try:
 except:
 	os.system("python3 -m pip install colorama")
 	os.system("cls")
+	from colorama import *
 
 
 
